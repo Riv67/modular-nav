@@ -32,16 +32,15 @@ a {
   padding: .5rem;
 }
 
-a:hover {
+a:hover,
+a:focus,
+.current {
   color: #fff;
   background-color: #0074d9;
   text-decoration: none;
 }
 
-.blue {
-  color: #fff;
-  background-color: #0074d9;
-}
+
 
 header {
   background-color: #e2e2e2;
