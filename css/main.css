@@ -29,6 +29,7 @@ li {
 a {
   text-decoration: none;
   color: #0074d9;
+  padding: .5rem;
 }
 
 a:hover {
@@ -54,6 +55,10 @@ header {
 
   .grid {
     text-align: left;
+  }
+
+  nav {
+    text-align: right;
   }
 
 }
